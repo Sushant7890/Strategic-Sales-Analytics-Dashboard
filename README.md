@@ -18,7 +18,7 @@ To analyze sales performance by identifying key revenue drivers, regional trends
 -Which states contribute the highest and lowest sales revenue?     
 -Which product subcategories generate the highest profit margins?      
 
--Dashoard Interaction <a href="https://github.com/Sushant7890/Strategic-Sales-Analytics-Dashboard/blob/main/Sales%20Analysis.png">View Dsahboard</a>
+-Dashoard Interaction <a href="https://github.com/Sushant7890/Strategic-Sales-Analytics-Dashboard/blob/main/Sales-Analytics-Dashboard.pbix">View Dsahboard</a>
 
 ##  Process
 -Clean and preprocess the data using Python (Pandas) and SQL to ensure accuracy.               
