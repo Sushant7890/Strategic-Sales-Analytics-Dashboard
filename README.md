@@ -31,10 +31,10 @@ To analyze sales performance by identifying key revenue drivers, regional trends
 ![Sales Analysis](https://github.com/user-attachments/assets/1d113203-01ce-45b6-a308-0fd6dfa37151)
 
 ##Project Insight
--Total sales revenue is 438K, with a total profit of 37K.             
--The average order value (AOV) is 121.01K, indicating strong transaction value.
--Cash on Delivery (COD) is the most preferred payment method (44%), followed by UPI (21%) and Credit/Debit Cards (25%).
--Clothing (63%) and Electronics (21%) dominate total sales volume.
+-Total sales revenue is 438K, with a total profit of 37K.                      
+-The average order value (AOV) is 121.01K, indicating strong transaction value.          
+-Cash on Delivery (COD) is the most preferred payment method (44%), followed by UPI (21%) and Credit/Debit Cards (25%).         
+-Clothing (63%) and Electronics (21%) dominate total sales volume.         
 
 ##Conclusion:
 The dashboard provides a comprehensive overview of sales and profit drivers. It highlights the importance of optimizing inventory, payment modes, and targeted marketing efforts to improve overall business performance. Focus on regional strengths, customer behavior, and seasonal trends for sustained growth.
