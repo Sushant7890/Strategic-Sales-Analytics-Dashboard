@@ -4,3 +4,5 @@ To analyze sales performance by identifying key revenue drivers, regional trends
 
 ## Dataset Used:
 - <a href="https://github.com/Sushant7890/Strategic-Sales-Analytics-Dashboard/blob/main/Details.csv">DataSet</a>
+- <a href="https://github.com/Sushant7890/Strategic-Sales-Analytics-Dashboard/blob/main/Orders.csv">DataSet</a>
+
