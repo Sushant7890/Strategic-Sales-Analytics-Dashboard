@@ -19,3 +19,12 @@ To analyze sales performance by identifying key revenue drivers, regional trends
 -Which product subcategories generate the highest profit margins?      
 
 -Dashoard Interaction <a href="https://github.com/Sushant7890/Strategic-Sales-Analytics-Dashboard/blob/main/Sales%20Analysis.png">View Dsahboard</a>
+
+##  Process
+-Clean and preprocess the data using Python (Pandas) and SQL to ensure accuracy.    
+-Analyze key metrics such as total sales, profit, AOV, and quantity sold.
+-Identify trends across regions, product categories, payment methods, and seasons.
+-Use charts, graphs, and KPIs to visualize performance trends.
+-Suggest improvements in marketing, payment options, and customer engagement.
+
+## Dashboard
