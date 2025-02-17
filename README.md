@@ -28,3 +28,5 @@ To analyze sales performance by identifying key revenue drivers, regional trends
 -Suggest improvements in marketing, payment options, and customer engagement.     
 
 ## Dashboard
+![Sales Analysis](https://github.com/user-attachments/assets/1d113203-01ce-45b6-a308-0fd6dfa37151)
+
